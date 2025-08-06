@@ -29,4 +29,6 @@ This project is distributed under the MIT License. See `LICENSE` for more inform
 ![Correlation Heatmap](plots/eda_correlation_heatmap.png)
 ![Heart Rate Timeseries Plot](plots/eda_hr_timeseries.png)
 ![Sleep Data Boxplot](plots/eda_sleep_boxplot.png)
+![Histogram of Daily Steps](plots/eda_steps_histogram.png)
+
 
