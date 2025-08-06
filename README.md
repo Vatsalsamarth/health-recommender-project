@@ -28,4 +28,5 @@ python3 src/main.py --user_id 123
 This project is distributed under the MIT License. See `LICENSE` for more information.
 ![Correlation Heatmap](plots/eda_correlation_heatmap.png)
 ![Heart Rate Timeseries Plot](plots/eda_hr_timeseries.png)
+![Sleep Data Boxplot](plots/eda_sleep_boxplot.png)
 
